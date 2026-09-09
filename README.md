@@ -3,5 +3,5 @@
 Homebrew formulae for [diegolanda](https://github.com/diegolanda) projects.
 
 ```sh
-brew install diegolanda/tap/gififier
+brew install diegolanda/tap/giff
 ```
